@@ -1,2 +1,3 @@
 Hola, este es mi proyecto
 primera linea
+segunda lineagit add dos.txt
