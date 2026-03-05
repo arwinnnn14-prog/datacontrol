@@ -1,6 +1,3 @@
 Archivo uno
-<<<<<<< HEAD
 dos
-=======
 uno
->>>>>>> a77017bb4c30b34fab6548ede43f0a64c02d2616
